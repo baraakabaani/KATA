@@ -1,0 +1,11 @@
+# Raw source photos/screenshots used to build the page — already embedded
+# in index.html as compressed base64 images, so they don't need to ship.
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.jfif
+
+# OS cruft
+.DS_Store
+Thumbs.db
